@@ -1,3 +1,6 @@
 todolist-domain/mods
 todolist-server/mods
 todolist-client-gui/mods
+todolist-domain/target
+todolist-server/target
+todolist-client-gui/target
